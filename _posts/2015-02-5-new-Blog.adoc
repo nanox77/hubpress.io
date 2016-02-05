@@ -1,4 +1,5 @@
 = new Blog();
-	:published_at: 2015-02-5
+
+:published_at: 2015-02-5
 
 :hp-tags: HubPress, Blog, Open Source
