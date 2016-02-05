@@ -1,4 +1,6 @@
-= new Blog();
+= Bienvenido!
+
+
 
 :published_at: 2015-02-05
 
